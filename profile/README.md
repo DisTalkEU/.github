@@ -22,7 +22,7 @@ Here are clients being maintained under Stoat's organisation:
 | ---------------------------------------------------------------------- | ----------------------------------- | :----------------------------------------: | :---------: |
 | [for-windows](https://github.com/DisTalkEU/for-windows)                | Windows App for DisTalk             |  [@fambosyt](https://github.com/fambosyt)  |     ✅      |
 | [for-android](https://github.com/DisTalkEU/for-android)                | Native Android App                  |  [@fambosyt](https://github.com/fambosyt)  |             |
-| [for-ios](https://github.com/stoatchat/for-ios)                        | Native iOS App                      |  [@zomatree](https://github.com/zomatree)  |             |
+| [for-ios](https://github.com/DisTalkEU/for-ios)                        | Native iOS App                      |  [@fambosyt](https://github.com/fambosyt)  |             |
 
 ### Server Software
 
