@@ -24,30 +24,11 @@ Here are clients being maintained under DisTalk's organisation:
 | [for-android](https://github.com/DisTalkEU/for-android)                | Native Android App                  |  [@fambosyt](https://github.com/fambosyt)  |             |
 | [for-ios](https://github.com/DisTalkEU/for-ios)                        | Native iOS App                      |  [@fambosyt](https://github.com/fambosyt)  |             |
 
-### Server Software
-
-Below is a list of all the repositories relevant to developing the core Stoat service.
-
-| Repository                                                                  | Description                                   |               Maintainer(s)                |
-| --------------------------------------------------------------------------- | --------------------------------------------- | :----------------------------------------: |
-| [backend](https://github.com/stoatchat/stoatchat)                           | Rust core libraries and backend services      | [@insertish](https://github.com/insertish) |
-| [javascript-client-sdk](https://github.com/stoatchat/javascript-client-sdk) | Typescript library for interacting with Stoat | [@insertish](https://github.com/insertish) |
-
-<!-- | [rfcs](https://github.com/stoatchat/rfcs)                                   | RFCs for changes to Stoat                     | [@insertish](https://github.com/insertish) | -->
-<!-- | [api](https://github.com/stoatchat/api)                                     | JavaScript API library                        | [@insertish](https://github.com/insertish) | -->
-
 ### Everything Else
 
 Here is a list of important repositories and who is managing each.
 
 | Repository                                                              | Description                                |                   Maintainer(s)                    |
 | ----------------------------------------------------------------------- | ------------------------------------------ | :------------------------------------------------: |
-| [developer-wiki](https://github.com/stoatchat/developer-wiki)           | Developers site and knowledge base         |                                                    |
-| [stoat.chat](https://github.com/stoatchat/stoat.chat)                   | Landing page                               |          [@infi](https://github.com/infi)          |
-| [service-admin-panel](https://github.com/stoatchat/service-admin-panel) | Service administration tool                |                                                    |
-| [self-hosted](https://github.com/stoatchat/self-hosted)                 | Docker Compose Configuration               | [@DeclanChidlow](https://github.com/DeclanChidlow) |
-| [translations](https://github.com/stoatchat/translations)               | Client translations                        | [@DeclanChidlow](https://github.com/DeclanChidlow) |
-| [javascript-genemoji](https://github.com/stoatchat/javascript-genemoji) | Emoji pack structure unification toolchain |          [@infi](https://github.com/infi)          |
-
-<!-- | [legal](https://github.com/stoatchat/legal)                             | Legal documents                            |     [@insertish](https://github.com/insertish)     | -->
-<!-- | [revolt.py](https://github.com/stoatchat/revolt.py)                     | Python wrapper                             |                                                    | -->
+| [wiki](https://github.com/DisTalkEU/wiki)                               | The Wiki for use DisTalk                   |      [@fambosyt](https://github.com/fambosyt)      |
+| [website](https://github.com/DisTalkEU/DisTalk-Website)                 | Landing page                               |      [@fambosyt](https://github.com/fambosyt)      |
