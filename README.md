@@ -10,11 +10,11 @@
 - ### [⬇ App](https://github.com/DisTalkEU/for-windows): Download the DisTalk Windows-App.
   <!-- - ### [📖 Support](https://distalk.distalk.eu): Get help with using Stoat. -->
 - ### [✨ Awesome DisTalk](https://github.com/DisTalkEU/awesome-distalk): Find libraries, bots, clients and other cool stuff.
-- ### [🔧 Developer Documentation](https://developers.revolt.chat): Documentation for developers including information on how to contribute.
-  <!-- - ### [🦜 Discussions](https://github.com/orgs/DisTalkEU/discussions): Request features or ask questions. -->
-  <!-- - ### [💻 Project Tracker](https://github.com/orgs/DisTalkEU/projects/3/views/1): GitHub project overview. -->
-  <!-- - ### [⬅️ Pull Requests](https://github.com/orgs/DisTalkEU/projects/5/views/1): GitHub pull request overview. -->
-  <!-- - ### [🕓 Roadmap](https://github.com/orgs/DisTalkEU/projects/6/views/4): High-level product roadmap. -->
+  
+- ### [🦜 Discussions](https://github.com/orgs/DisTalkEU/discussions): Request features or ask questions.
+- ### [💻 Project Tracker](https://github.com/orgs/DisTalkEU/projects/3/views/1): GitHub project overview.
+- ### [⬅️ Pull Requests](https://github.com/orgs/DisTalkEU/projects/5/views/1): GitHub pull request overview.
+- ### [🕓 Roadmap](https://github.com/orgs/DisTalkEU/projects/6/views/4): High-level product roadmap.
 
 ## Repositories
 
