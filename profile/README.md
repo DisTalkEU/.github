@@ -9,7 +9,6 @@
 - ### [🌍 Website](https://distalk.eu): The official DisTalk website.
 - ### [⬇ App](https://github.com/DisTalkEU/for-windows): Download the DisTalk Windows-App.
 - ### [📖 Support](https://distalk.distalk.eu): Get help with using DisTalk.
-- ### [✨ Awesome DisTalk](https://github.com/DisTalkEU/awesome-distalk): Find libraries, bots, clients and other cool stuff.
 - ### [🦜 Discussions](https://github.com/orgs/DisTalkEU/discussions): Request features or ask questions.
 
 ## Repositories
