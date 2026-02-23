@@ -21,12 +21,10 @@ Here are clients being maintained under Stoat's organisation:
 | Repository                                                             | Description                         |               Maintainer(s)                | Fit For Use |
 | ---------------------------------------------------------------------- | ----------------------------------- | :----------------------------------------: | :---------: |
 | [for-web](https://github.com/stoatchat/for-web)                        | Solid.js Progressive Web App        | [@insertish](https://github.com/insertish) |     ✅      |
-| [for-windows](https://github.com/DisTalkEU/for-windows)                | Windows App for DisTalk             | [@fambosyt](https://github.com/fambosyt)   |     ✅      |
-| [for-android](https://github.com/stoatchat/for-android)                | Native Android App                  |      [@infi](https://github.com/infi)      |     ✅      |
+| [for-windows](https://github.com/DisTalkEU/for-windows)                | Windows App for DisTalk             |  [@fambosyt](https://github.com/fambosyt)  |     ✅      |
+| [for-android](https://github.com/DisTalkEU/for-android)                | Native Android App                  |  [@fambosyt](https://github.com/fambosyt)  |     ✅      |
 | [for-ios](https://github.com/stoatchat/for-ios)                        | Native iOS App                      |  [@zomatree](https://github.com/zomatree)  |             |
 | [for-legacy-web (revite)](https://github.com/stoatchat/for-legacy-web) | Legacy Preact Progressive Web App   | [@insertish](https://github.com/insertish) |     ✅      |
-
-You can find additional third-party clients [on the community wiki](https://wiki.stt.gg/index.php/Clients).
 
 ### Server Software
 
