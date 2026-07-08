@@ -19,6 +19,6 @@ Here are clients being maintained under DisTalk's organisation:
 | Repository                                                             | Description                         |               Maintainer(s)                | Fit For Use |
 | ---------------------------------------------------------------------- | ----------------------------------- | :----------------------------------------: | :---------: |
 | [for-windows](https://github.com/DisTalkEU/for-windows)                | Windows App for DisTalk             |  [@fambosyt](https://github.com/fambosyt)  |     ✅      |
-| [for-macos](https://github.com/DisTalkEU/for-macos)                    | MacOS App for DisTalk               |  [@fambosyt](https://github.com/fambosyt)  |             |
+| [for-macos](https://github.com/DisTalkEU/for-macos)                    | MacOS App for DisTalk               |  [@fambosyt](https://github.com/fambosyt)  |     ✅      |
 | [for-android](https://github.com/DisTalkEU/for-android)                | Native Android App                  |  [@fambosyt](https://github.com/fambosyt)  |     ✅      |
 | [for-ios](https://github.com/DisTalkEU/for-ios)                        | Native iOS App                      |  [@fambosyt](https://github.com/fambosyt)  |             |
